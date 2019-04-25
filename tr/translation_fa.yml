@@ -1,0 +1,40 @@
+---
+one:
+  strings:
+    - 
+      test: some text
+      d_url: untranslatable url
+      test1: some other text
+    - 
+      test: some text
+      d_url: untranslatable url
+      test1: some other text
+    - 
+      test: some text
+      d_url: untranslatable url
+      test1:
+        - 
+          test: some text
+          d_url: untranslatable url
+          test1: some other text
+    - 
+      test: some text
+      d_url: untranslatable url
+      test1: some other text
+    - 
+      test: some text
+      d_url: untranslatable url
+      test1: some other text
+    - 
+      test: some text
+      d_url: untranslatable url
+      test1: some other text
+    - 
+      test: some text
+      d_url: untranslatable url
+      test1: some other text
+    - 
+      test: some text
+      d_url: untranslatable url
+      test1: some other text
+
